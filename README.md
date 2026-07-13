@@ -2,7 +2,7 @@
 
 > 基于 **Vue 3 + Vite** 构建的企业级内容管理后台系统，涵盖文章管理、分类管理、用户中心及 AI 智能助手等核心模块，采用现代化技术栈与工程化规范。
 
-* 项目演示地址： [https://luluuu060.github.io/vue3-Event_Manager/]
+* 项目演示地址： [https://luluuu060.github.io/vue3-event-manager3/]
 
 ## 目录
 
